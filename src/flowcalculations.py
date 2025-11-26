@@ -2,6 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import argparse
 import os
+import airfoilmain
 
 """
 From Scratch X-Foil Like Simulator Using Vortex Panel Method
